@@ -1,0 +1,8 @@
+"Measurement file: C:\Users\ac146714\bwSyncShare\3_Data_Measurement_And_Stuff\LED_Measurement_E27_Lamps\Philips_4000K_2,3W_485Lumen_600ms_1__0__15-30-16-298.txt"
+"Calibration file: C:\Users\ac146714\bwSyncShare\3_Data_Measurement_And_Stuff\Calibration_Spectro\FLMT11171\merged_Spectro_FLMT11171_Deut_OOIIrrad_Spectro_FLMT11171_Halo_OOIIrrad_400nm.cal"
+"Integration time: 0.6 s"
+"Effective wavelength window: 195 .. 900 nm"
+"Noise threshold active (ABSOLUTE): counts < 1000 -> 0"
+"Total irradiance WITHOUT threshold: 1.629286 W/m^2"
+"Total irradiance WITH threshold: 1.549432 W/m^2"
+"Ratio (WITH/WITHOUT): 0.950988"
